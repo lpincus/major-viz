@@ -27,6 +27,7 @@ body, html {
 #paraText {
   background-image: url("/img/grad.jpg");
   color: white;
+  background-color: #fff;
   height: 60vh;
   /* width: 105vw; */
   background-position: top center;
@@ -81,6 +82,10 @@ body, html {
 h3 {
   height: 8vh;
   display: inline;
+}
+
+#welcome-back {
+  text-align: center;
 }
 
 @media (min-width: 768px) {
